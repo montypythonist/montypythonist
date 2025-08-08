@@ -1,17 +1,12 @@
-## Hi there 👋
-idk what to put here yet, i just want to look cool for now until the stuff i code actually becomes cool
+## julia (montypythonist) README.md
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=montypythonist&theme=cobalt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montypythonist&layout=compact&theme=cobalt)
+- currently working on `RubiksRobot-Monty` which is currently in the alpha stage
+- modules are at my [PyPI page](https://pypi.org/user/montypythonist)
+- check out my [portfolio](https://montypythonist.carrd.co/) for more of my projects
 
-<!--
-**montypythonist/montypythonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+skills/interests/things i'm learning:
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=github,linux,py,pytorch,raspberrypi,js,tensorflow,ubuntu,vscode,git,anaconda,arduino,cpp,githubactions,gradle,html,java,powershell,robloxstudio,bots&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>have a good day/night!</sub>

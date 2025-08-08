@@ -10,3 +10,4 @@ skills/interests/things i'm learning:
 [![My Skills](https://skillicons.dev/icons?i=github,linux,py,pytorch,raspberrypi,js,tensorflow,ubuntu,vscode,git,anaconda,arduino,cpp,githubactions,gradle,html,java,powershell,robloxstudio,bots&perline=5)](https://skillicons.dev)
 
 <sub>have a good day/night!</sub>
+![N-status-murder-drones](status.png)

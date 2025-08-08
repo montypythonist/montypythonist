@@ -1,4 +1,5 @@
 ## Hi there 👋
+idk what to put here yet, i just want to look cool for now until the stuff i code actually becomes cool
 
 <!--
 **montypythonist/montypythonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

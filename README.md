@@ -1,13 +1,16 @@
-## julia (montypythonist) README.md
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=montypythonist&theme=cobalt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## julia al-otoom // montypythonist
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=montypythonist&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montypythonist&layout=compact&theme=cobalt)
-- currently working on `TAMMI`, my most in-depth programming project!
 - modules are at my ***[PyPI page](https://pypi.org/user/montypythonist)***
 - check out my [portfolio](https://montypythonist.carrd.co/) for more of my projects
 
+currently working on `TAMMI`, my most in-depth project by far
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montypythonist&repo=tammi)](https://github.com/montypythonist/tammi)
+
 skills/interests/things i'm learning:
 
-[![My Skills](https://skillicons.dev/icons?i=github,linux,py,pytorch,raspberrypi,js,tensorflow,ubuntu,vscode,git,anaconda,arduino,cpp,githubactions,gradle,html,java,powershell,robloxstudio,bots&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,linux,py,pytorch,raspberrypi,js,tensorflow,ubuntu,vscode,git,anaconda,arduino,cpp,githubactions,gradle,html,java,powershell,robloxstudio,bots)](https://skillicons.dev)
 
 <sub>have a good day/night!</sub>
 ![N-status-murder-drones](status.png)

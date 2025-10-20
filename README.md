@@ -1,5 +1,4 @@
 ## julia al-otoom // montypythonist
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=montypythonist&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montypythonist&layout=compact&theme=cobalt)
 - modules are at my ***[PyPI page](https://pypi.org/user/montypythonist)***
 - check out my [portfolio](https://montypythonist.carrd.co/) for more of my projects

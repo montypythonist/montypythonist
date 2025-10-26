@@ -1,5 +1,5 @@
 ## julia al-otoom // montypythonist
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montypythonist&layout=compact&theme=cobalt)
+- monty python is my hyperfixation
 - modules are at my ***[PyPI page](https://pypi.org/user/montypythonist)***
 - check out my [portfolio](https://montypythonist.carrd.co/) for more of my projects
 

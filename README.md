@@ -1,8 +1,9 @@
 |˶˙ᵕ˙ )ﾉﾞ
 
-Julia Al-Otoom aka montypythonist's github insanity
+Julia Al-Otoom aka montypythonist's github insanity ♡⸜(˶˃ ᵕ ˂˶)⸝♡
 
-- i do a lot of interesting stuff, i hope ♡⸜(˶˃ ᵕ ˂˶)⸝♡
+- deputy vision programmer for FRC Lake Monsters 2635
+- (newgen) EE student at Portland State Aerospace Society!!
 - python modules are at my [PyPI page](https://pypi.org/user/montypythonist)
 - my [portfolio](https://montypythonist.carrd.co) also has more cool things
 

@@ -2,9 +2,9 @@
 
 Julia Al-Otoom aka montypythonist's github insanity
 
-i do a lot of interesting stuff, i hope ♡⸜(˶˃ ᵕ ˂˶)⸝♡
-
-python modules are at my [PyPI page](https://pypi.org/user/montypythonist)
+- i do a lot of interesting stuff, i hope ♡⸜(˶˃ ᵕ ˂˶)⸝♡
+- python modules are at my [PyPI page](https://pypi.org/user/montypythonist)
+- my [portfolio](https://montypythonist.carrd.co) also has more cool things
 
 okay bye ヾ(＾∇＾)
 

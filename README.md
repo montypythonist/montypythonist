@@ -8,4 +8,6 @@ python modules are at my [PyPI page](https://pypi.org/user/montypythonist)
 
 okay bye ヾ(＾∇＾)
 
-<img width="650" height="300" alt="image" src="status.png" />
+lıllılı.ıllı.ılılıı ♫⋆｡♪ ₊˚♬ ﾟ. ₊♪𝄞𝄢₊⊹ ‧₊⋆｡ﾟ˚♪𝄞࿐₊˚⊹ᶻ 𝗓 𐰁 .ᐟ ✄┈┈⋆˚꩜｡ ⊹ ࣪ ˖ ⋆˚✿˖° ⋆౨ৎ˚⟡˖ ࣪ 𖡼.𖤣𖥧𖡼.𖤣𖥧 -ˋˏ☾.˚˖⁺✦ lıllılı.ıllı.ılılıı
+
+<img width="400" height="400" alt="image" src="status.png" />

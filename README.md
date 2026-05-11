@@ -11,4 +11,4 @@ okay bye ヾ(＾∇＾)
 
 lıllılı.ıllı.ılılıı ♫⋆｡♪ ₊˚♬ ﾟ. ₊♪𝄞𝄢₊⊹ ‧₊⋆｡ﾟ˚♪𝄞࿐₊˚⊹ᶻ 𝗓 𐰁 .ᐟ ✄┈┈⋆˚꩜｡ ⊹ ࣪ ˖ ⋆˚✿˖° ⋆౨ৎ˚⟡˖ ࣪ 𖡼.𖤣𖥧𖡼.𖤣𖥧 -ˋˏ☾.˚˖⁺✦ lıllılı.ıllı.ılılıı
 
-<img width="400" height="400" alt="image" src="status.png" />
+<img width="400" height="400" alt="image" src="IMG_8158.jpeg" />
